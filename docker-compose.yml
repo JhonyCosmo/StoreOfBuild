@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  storeofbuild.web:
+    image: ${DOCKER_REGISTRY}storeofbuildweb
+    build:
+      context: .
+      dockerfile: StoreOfBuild.Web/Dockerfile

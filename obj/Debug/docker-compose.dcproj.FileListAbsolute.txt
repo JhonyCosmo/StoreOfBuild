@@ -1,0 +1,11 @@
+D:\ESTUDOS\UDEMY\NET_CORE\projeto\src\bin\Debug\StoreOfBuild.Web.dll
+D:\ESTUDOS\UDEMY\NET_CORE\projeto\src\bin\Debug\StoreOfBuild.Domain.dll
+D:\ESTUDOS\UDEMY\NET_CORE\projeto\src\bin\Debug\StoreOfBuild.DI.dll
+D:\ESTUDOS\UDEMY\NET_CORE\projeto\src\bin\Debug\StoreOfBuild.Data.dll
+D:\ESTUDOS\UDEMY\NET_CORE\projeto\src\bin\Debug\StoreOfBuild.Web.pdb
+D:\ESTUDOS\UDEMY\NET_CORE\projeto\src\bin\Debug\StoreOfBuild.Domain.pdb
+D:\ESTUDOS\UDEMY\NET_CORE\projeto\src\bin\Debug\StoreOfBuild.DI.pdb
+D:\ESTUDOS\UDEMY\NET_CORE\projeto\src\bin\Debug\StoreOfBuild.Data.pdb
+D:\ESTUDOS\UDEMY\NET_CORE\projeto\src\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+D:\ESTUDOS\UDEMY\NET_CORE\projeto\src\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\ESTUDOS\UDEMY\NET_CORE\projeto\src\obj\Debug\docker-compose.dcproj.CopyComplete

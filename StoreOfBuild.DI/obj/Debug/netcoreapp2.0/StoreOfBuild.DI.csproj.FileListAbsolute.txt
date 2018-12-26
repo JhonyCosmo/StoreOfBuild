@@ -1,0 +1,16 @@
+D:\ESTUDOS\UDEMY\NET_CORE\projeto\src\StoreOfBuild.DI\bin\Debug\netcoreapp2.0\StoreOfBuild.DI.deps.json
+D:\ESTUDOS\UDEMY\NET_CORE\projeto\src\StoreOfBuild.DI\bin\Debug\netcoreapp2.0\StoreOfBuild.DI.dll
+D:\ESTUDOS\UDEMY\NET_CORE\projeto\src\StoreOfBuild.DI\bin\Debug\netcoreapp2.0\StoreOfBuild.DI.pdb
+D:\ESTUDOS\UDEMY\NET_CORE\projeto\src\StoreOfBuild.DI\obj\Debug\netcoreapp2.0\StoreOfBuild.DI.csprojAssemblyReference.cache
+D:\ESTUDOS\UDEMY\NET_CORE\projeto\src\StoreOfBuild.DI\obj\Debug\netcoreapp2.0\StoreOfBuild.DI.csproj.CoreCompileInputs.cache
+D:\ESTUDOS\UDEMY\NET_CORE\projeto\src\StoreOfBuild.DI\obj\Debug\netcoreapp2.0\StoreOfBuild.DI.AssemblyInfoInputs.cache
+D:\ESTUDOS\UDEMY\NET_CORE\projeto\src\StoreOfBuild.DI\obj\Debug\netcoreapp2.0\StoreOfBuild.DI.AssemblyInfo.cs
+D:\ESTUDOS\UDEMY\NET_CORE\projeto\src\StoreOfBuild.DI\obj\Debug\netcoreapp2.0\StoreOfBuild.DI.dll
+D:\ESTUDOS\UDEMY\NET_CORE\projeto\src\StoreOfBuild.DI\obj\Debug\netcoreapp2.0\StoreOfBuild.DI.pdb
+D:\ESTUDOS\UDEMY\NET_CORE\projeto\src\StoreOfBuild.DI\bin\Debug\netcoreapp2.0\StoreOfBuild.DI.runtimeconfig.json
+D:\ESTUDOS\UDEMY\NET_CORE\projeto\src\StoreOfBuild.DI\bin\Debug\netcoreapp2.0\StoreOfBuild.DI.runtimeconfig.dev.json
+D:\ESTUDOS\UDEMY\NET_CORE\projeto\src\StoreOfBuild.DI\bin\Debug\netcoreapp2.0\StoreOfBuild.Data.dll
+D:\ESTUDOS\UDEMY\NET_CORE\projeto\src\StoreOfBuild.DI\bin\Debug\netcoreapp2.0\StoreOfBuild.Domain.dll
+D:\ESTUDOS\UDEMY\NET_CORE\projeto\src\StoreOfBuild.DI\bin\Debug\netcoreapp2.0\StoreOfBuild.Data.pdb
+D:\ESTUDOS\UDEMY\NET_CORE\projeto\src\StoreOfBuild.DI\bin\Debug\netcoreapp2.0\StoreOfBuild.Domain.pdb
+D:\ESTUDOS\UDEMY\NET_CORE\projeto\src\StoreOfBuild.DI\obj\Debug\netcoreapp2.0\StoreOfBuild.DI.csproj.CopyComplete
